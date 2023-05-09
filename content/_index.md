@@ -1,8 +1,5 @@
 ---
-# Leave the homepage title empty to use the site title
-title: sss
-
-  - block: about.biography
+ - block: about.biography
     id: about
     content:
       title: Biography
